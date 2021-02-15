@@ -1,0 +1,4 @@
+Bundle-Name: commerce-bulk-upload
+Bundle-SymbolicName: com.liferay.demo.commerce.upload
+Bundle-Version: 1.0.0
+Export-Package: com.liferay.demo.commerce.upload.constants
